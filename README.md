@@ -1,5 +1,6 @@
 # Bangaluru_Luxury_Housing_Analysis
 A data analytics project using Python, MySQL, and Power BI to analyze luxury housing trends.
+
 🏡 Luxury Housing Market Analysis — Bangalore
 
 📊 Power BI • 🐍 Python • 🗄️ MySQL • 📁 GitHub
@@ -10,6 +11,7 @@ A complete end-to-end data analytics project analyzing the luxury housing market
 ---
 
 🚀 Project Overview
+
 
 This project aims to analyze the luxury housing market using:
 
@@ -33,6 +35,7 @@ Do amenities influence booking conversion?
 Which configurations are most in demand?
 
 Which sales channels perform best?
+
 🧹 Data Cleaning & Feature Engineering (Python)
 
 Performed using Pandas, NumPy, and SQLAlchemy:
@@ -129,6 +132,8 @@ Total Bookings
 Avg Ticket Price
 
 Top 5 Builders
+
+
 🛠️ How to Run This Project
 
 1. Clone the repository
@@ -144,6 +149,8 @@ Open MySQL Workbench and run the .sql files from SQL/ folder.
 4. Open the Power BI file
 
 Connect it to your local MySQL server → Refresh → Dashboard loads.
+
+
 🎯 Key Business Insights
 
 (You can update these after completing your dashboard)
@@ -155,6 +162,8 @@ North Bangalore has the highest quarterly growth
 Builder revenue highly varies across quarters
 
 Amenity Score shows strong positive correlation with conversion rate
+
+
 👤 Author
 
 Souvik Ghosh
