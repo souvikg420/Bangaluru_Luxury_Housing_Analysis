@@ -133,8 +133,6 @@ Top 5 Builders
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/luxury-housing-analysis.git
-
 2. Install Python dependencies
 
 pip install pandas sqlalchemy mysql-connector-python numpy
